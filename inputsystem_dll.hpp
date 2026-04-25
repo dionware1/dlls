@@ -10,7 +10,7 @@ namespace cs2_dumper {
     namespace schemas {
         namespace inputsystem_dll {
             namespace inputsystem_dll {
-                constexpr std::ptrdiff_t dwInputSystem = 0x45ad0;
+                constexpr std::ptrdiff_t dwInputSystem = 0x42B50;
             }
         }
     }
