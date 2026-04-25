@@ -10,7 +10,7 @@ namespace cs2_dumper {
     namespace schemas {
         namespace matchmaking_dll {
             namespace matchmaking_dll {
-                constexpr std::ptrdiff_t dwGameTypes = 0x1B8000;
+                constexpr std::ptrdiff_t dwGameTypes = 0x1B0F80;
             }
         }
     }
